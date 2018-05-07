@@ -16,6 +16,8 @@ namespace day_2
             dati = Console.ReadLine();
             Console.WriteLine("Jus esat dzimis " + dati);
             Console.ReadLine();
+            Console.WriteLine("github tests");
+            Console.ReadLine();
 
 
         }
