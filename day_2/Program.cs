@@ -18,8 +18,24 @@ namespace day_2
             Console.ReadLine();
             Console.WriteLine("github tests");
             Console.ReadLine();
-
+            Console.WriteLine("github tests");
+            Console.ReadLine();
+            Console.WriteLine("github tests");
+            Console.ReadLine();
 
         }
+
+
+        static void TekstaIzvade() //funkcija, kas neatgrieg 
+        {
+            Console.WriteLine("aaa");
+            Console.WriteLine("kkk");
+                
+
+        }
+
+
+
+
     }
 }
